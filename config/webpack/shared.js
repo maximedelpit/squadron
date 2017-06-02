@@ -1,5 +1,5 @@
 // Note: You must restart bin/webpack-dev-server for changes to take effect
-
+// http://pixelatedworks.com/articles/embracing-change-rails51-adopts-yarn-webpack-and-the-js-ecosystem/
 /* eslint global-require: 0 */
 /* eslint import/no-dynamic-require: 0 */
 
